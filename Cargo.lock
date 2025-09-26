@@ -11804,7 +11804,7 @@ dependencies = [
  "blake3",
  "chrono",
  "convert_case 0.8.0",
- "futures 0.3.31",
+ "futures 0.1.31",
  "juniper",
  "juniper_codegen",
  "serde",
